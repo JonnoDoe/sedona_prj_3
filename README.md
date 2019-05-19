@@ -1,1 +1,1 @@
-# sedona_prj_3
+# Sedona [Without Responsive]
